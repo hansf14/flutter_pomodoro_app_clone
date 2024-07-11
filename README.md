@@ -1,7 +1,7 @@
 # flutter_pomodoro_app_clone
 
 - **One of my personal digital nomad life projects (for practice).**
-- **Project current status: [complete]:ballot_box_with_check:**
+- **Project current status: [complete]**:ballot_box_with_check:
 - **Tech**
 <p>
   <div>
