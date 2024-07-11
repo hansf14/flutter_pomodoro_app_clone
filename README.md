@@ -1,4 +1,4 @@
-# flutter_pomodoro_app_clone
+# Flutter Pomodoro App Clone
 
 - **One of my personal digital nomad life projects (for practice).**
 - **Project current status: [complete]**:ballot_box_with_check:
